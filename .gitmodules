@@ -1,0 +1,3 @@
+[submodule "edk-source"]
+	path = edk-source
+	url = https://github.com/Edimartin/edk-source.git
